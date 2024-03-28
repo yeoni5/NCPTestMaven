@@ -8,6 +8,7 @@
 </head>
 <body>
 	<h3>CICD 연습</h3>
+	<h3>Have a nice day!!</h3>
 	<img src="./image/rabbit.gif" alt="rabbit" />
 </body>
 </html>
